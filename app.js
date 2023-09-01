@@ -109,5 +109,4 @@ copyToClipboard.addEventListener("click", () => {
 
 function reset() {
   copyText.innerHTML = "";
-  console.log("Done");
 }
